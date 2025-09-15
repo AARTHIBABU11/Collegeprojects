@@ -1,0 +1,79 @@
+*{
+    margin:0px;
+    padding:0%
+}
+.one {
+            font-family: "Poppins", sans-serif;
+        }
+        
+        .poppins-bold {
+            font-family: "Poppins", sans-serif;
+            font-weight: 700;  /* Bold weight */
+        }
+        
+        /* You can also apply styles to the #two ID directly */
+        #two {
+            font-family: "Poppins", sans-serif;
+            font-weight: 700;
+        }
+
+.one{
+    margin-left: 30%;
+}
+.firstimage{
+    padding-top:10%;
+}
+.two{
+    margin-top:5%;
+    margin-left:30%
+}
+.two{
+            font-family: "Poppins", sans-serif;
+        }
+        
+        .poppins-thin {
+            font-family: "Poppins", sans-serif;
+           font-weight: 100;/* Bold weight */
+             font-style: normal;
+        }
+
+#color{
+   
+    margin-left: 30%;
+    margin-bottom:30px;
+    width: 100px;
+}
+
+#three{
+    
+
+    background-color:orange;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    
+}
+#three:hover{
+    background-color: red;
+}
+img{
+    width:100px;
+    height:95px;
+    display: flexbox;
+    border-color: black;
+    border-style: solid;
+    border-radius:10px;
+}
+img:hover{
+    transform: scale(1.2);
+}
+
+.big {
+    width: 400px;
+    height: 400px;
+}
+
+  
+
+        
